@@ -2,7 +2,7 @@
 
 *This is a guest post by MakerSquare fellows [Taylor Smith](twitter.com/taylorcodes), [Clay Stewart](twitter.com/clay_Stewart), and [Gamble McAdam](twitter.com/misplacedyankee).*
 
-While the three of us were MakerSquare students, we were approached with the opportunity to participate in a [3 Day Startup](http://3daystartup.org/), an intensive weekend workshop where participants attempt to develop a business idea and launch it in one weekend. Heavy emphasis is placed on validating a product-market fit and making sure that people actually want the product that you are creating.
+While the three of us were MakerSquare students, we were approached with the opportunity to participate in [3 Day Startup](http://3daystartup.org/), an intensive weekend workshop where participants attempt to develop a business idea and launch it in one weekend. 3 Day Startup places heavy emphasis on validating a product-market fit and making sure that people actually want the product that you are creating.
 
 We could see no better opportunity to put the skills that we were learning at [MakerSquare](themakersquare.com) to the test than to see if we could successfully build and launch a web product in one weekend. In lieu of a MakerSquare hackathon, we opted to participate in 3 Day Startup.
 
